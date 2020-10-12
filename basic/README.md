@@ -1,5 +1,3 @@
-## py-projects
-
 
 **_script01_**
 * Programa em python que indica ao motorista as três possibilidades, onde ao receber cada cor do semáforo exibe a mensagem correspondente.
